@@ -1,0 +1,2 @@
+Max Board Size: u8 (256)
+Max Cell Value: u8 (256^2)
